@@ -7,4 +7,4 @@ Test Modes
 Memory Manipulation Checks
 Kernel Level Debugging Checks
 Not Flagged by Windows Defender
-star <3
+
